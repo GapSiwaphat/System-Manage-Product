@@ -1,15 +1,17 @@
 # Web Application System Manage
 
-A responsive web application built with React and Next.js that simulates an online shopping experience.
+A web-based product management system with an interactive dashboard for monitoring and managing product data.
 
 ## 🔹 Overview
-This project demonstrates frontend development skills including API integration, state management, and responsive UI design.
+This project is a web application designed to manage products and display key information through a dashboard interface. It demonstrates frontend development skills including state management, CRUD operations, and responsive UI design.
 
 ## 🔹 Features
-- Product listing page with API integration
+- Dashboard Manage
+  
+- Product listing page with API integration and full CRUD functionality
 - Product detail view
-- Shopping cart functionality
-- Add / Remove / Update quantity
+- Order management system with CRUD functionality
+- Location Management system with CRUD functionality
 - Responsive design
 
 ## 🔹 Tech Stack
