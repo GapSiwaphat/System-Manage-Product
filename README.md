@@ -7,16 +7,16 @@ This project is a web application designed to manage products and display key in
 
 ## 🔹 Features
 - Dashboard Manage
-  ![Dashboard Screenshot](./assets/Dashboard.png)
+  ![Dashboard Screenshot](./src/assets/Dashboard.png)
 - Product listing page with API integration and full CRUD functionality
-  ![Product Screenshot](./assets/product.png)
+  ![Product Screenshot](./src/assets/product.png)
 - Product detail view
 - Categories management system with CRUD functionality
-  ![Categories Screenshot](./assets/Categories.png)
+  ![Categories Screenshot](./src/assets/Categories.png)
 - Order management system with CRUD functionality
-  ![Order Screenshot](./assets/Order.png)
+  ![Order Screenshot](./src/assets/Order.png)
 - Location Management system with CRUD functionality
-  ![Location Screenshot](./assets/location.png)
+  ![Location Screenshot](./src/assets/location.png)
 - Responsive design
 
 ## 🔹 Tech Stack
